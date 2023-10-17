@@ -1,1 +1,1 @@
-# AppStaticServer
+# static server
