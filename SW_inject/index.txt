@@ -1,1 +1,4 @@
-[{hi:'ho'}]
+{
+"type":"download"
+,"data":"null"
+}
