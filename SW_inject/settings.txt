@@ -1,0 +1,6 @@
+{
+"type":"settings"
+,"path":"/.sketchware/data/settings.json"
+,"name":"settings.json"
+,"data":"{\"blockDir\":\"/.sketchware/resources/block/My Block/block.json\",\"backup-dir\":\"swb_files\",\"palletteDir\":\"/.sketchware/resources/block/My Block/palette.json\",\"backup-filename\":\"$pkgName $versionCode $time(yyyy-MM-dd\\u0027 \\u0027HH_mm_ss)\",\"legacy-ce\":false,\"root-auto-open-after-installing\":false,\"use-asd-highlighter\":true,\"show-every-single-block\":false,\"always-show-blocks\":true,\"skip-major-changes-reminder\":true,\"built-in-blocks\":true,\"root-auto-install-projects\":false,\"use-new-version-control\":true}"
+}
