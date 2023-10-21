@@ -1,6 +1,0 @@
-{
-  "type": "block",
-  "name": "MobileInfo",
-  "data": "[{\"code\":\"%s\",\"color\":\"#FFF44336\",\"name\":\"MobileInfo_byskk\",\"typeName\":\"\",\"palette\":\"###\",\"type\":\"s\",\"spec\":\"%m.MobileInfo\"}]",
-  "second": "MobileInfoMenu"
-}
