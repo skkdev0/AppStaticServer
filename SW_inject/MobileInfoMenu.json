@@ -1,0 +1,5 @@
+{
+  "type": "menu",
+  "name": "MobileInfo.json",
+  "data": [{"data":["Build.TAGS","Build.UNKNOWN","Build.USER","Build.ID","Build.DISPLAY","Build.PRODUCT","Build.FINGERPRINT","Build.HOST","Build.CPU_ABI","Build.HARDWARE","Build.RADIO","Build.SERIAL","Build.BOOTLOADER","Build.VERSION.SECURITY_PATCH","Build.BOARD","Build.BRAND","Build.VERSION.RELEASE","Build.VERSION.SDK","Build.MANUFACTURER.concat(\" \".concat(Build.MODEL))","Locale.getDefault().getDisplayLanguage()"],"name":"MobileInfo","title":"MobileInfo"}]
+}
