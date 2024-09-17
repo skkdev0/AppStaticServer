@@ -1,5 +1,0 @@
-{
-"type":"download"
-,"data":"https://raw.githubusercontent.com/skkdev0/AppStaticServer/main/SW_inject/index.txt"
-,"name":"index.txt"
-}
